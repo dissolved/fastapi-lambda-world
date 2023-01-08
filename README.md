@@ -71,3 +71,7 @@ The `--resolve-s3` part just creates a unique bucket for the deploy. And it turn
 ## Other common steps when following this workflow for deploying using SAM.
 
 - create `.gitignore` if it doesn't already exist, and add `.aws-sam` because we don't want to commit build artifacts
+
+## Other Resources
+
+- [Part 2: Deploy FastAPI on AWS Part 2: Fargate & ALB](https://www.eliasbrange.dev/posts/deploy-fastapi-on-aws-part-2-fargate-alb/)
